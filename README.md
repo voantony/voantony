@@ -4,7 +4,10 @@ I build small, simple tools for e-readers and the things I use every day.
 
 ## Projects
 
-- [Library GUI for KOReader](https://gitlab.com/antonyvo/koreader-library-gui): a Kindle-style library screen for KOReader that shows much more of your library at once. [Latest release](https://gitlab.com/antonyvo/koreader-library-gui/-/releases).
+- [RunReady](https://gitlab.com/antonyvo/runready): checks whether a public repository installs using its agent documentation.
+- [Library GUI for KOReader](https://gitlab.com/antonyvo/koreader-library-gui): a Kindle-style library screen with cover, list and compact views.
+- [Mount Kindle](https://gitlab.com/antonyvo/kindle-mtp-mount): a macOS menu-bar app that mounts MTP Kindles as a Finder drive.
+- [OpenCourtVision](https://gitlab.com/antonyvo/opencourtvision): tennis and padel tools using audio and vision; work in progress.
 
 ## Support
 
