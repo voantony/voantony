@@ -11,4 +11,4 @@ I'm an AI-first builder. I've been coding since fifth grade, and these days I wo
 
 ---
 
-If my tools save you time, [tips are welcome](SUPPORT.md).
+If my tools save you time, [tips are welcome](https://gitlab.com/antonyvo/antonyvo/-/blob/main/SUPPORT.md).
