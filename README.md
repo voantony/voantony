@@ -1,15 +1,15 @@
-# Hi, I'm Antony 👋
+# Hi, I'm Antony
 
-I build small, simple tools for e-readers and the things I use every day.
+I'm an AI-first builder. I've been coding since fifth grade, and these days I work on personal projects in tennis video analysis, macOS tools, and automation.
 
 ## Projects
 
-- [RunReady](https://gitlab.com/antonyvo/runready): checks whether a public repository installs using its agent documentation.
-- [Library GUI for KOReader](https://gitlab.com/antonyvo/koreader-library-gui): a Kindle-style library screen with cover, list and compact views.
+- [OpenCourtVision](https://gitlab.com/antonyvo/opencourtvision): multimodal audio and vision analysis for tennis and padel. Point detection, score tracking, and pose and stroke analysis. It runs locally on Apple Silicon. Work in progress.
+- [RunReady](https://gitlab.com/antonyvo/runready): checks whether a public repository still installs from its agent documentation.
 - [Mount Kindle](https://gitlab.com/antonyvo/kindle-mtp-mount): a macOS menu-bar app that mounts MTP Kindles as a Finder drive.
-- [OpenCourtVision](https://gitlab.com/antonyvo/opencourtvision): tennis and padel tools using audio and vision; work in progress.
+- [Library GUI for KOReader](https://gitlab.com/antonyvo/koreader-library-gui): a Kindle-style library screen with cover, list and compact views.
 
-## Support
+## Support my open-source work
 
 If this saves you time and you'd like to say thanks, tips are welcome. Always optional.
 
