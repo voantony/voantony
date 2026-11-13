@@ -7,7 +7,7 @@ I'm open to roles in engineering, AI tooling and technical writing ([samples](ht
 ## What I build
 
 - **E-reader tools:** Library GUI for KOReader, a Kindle-style library screen with a cover grid, search, and Collections, Authors and Series tabs.
-- **Tennis video analysis:** OpenCourtVision, an audio-and-vision pipeline that finds the points in a tennis match recording, tracks the score and cuts highlights, all running locally on Apple Silicon.
+- **Tennis video analysis:** OpenCourtVision, an audio-and-vision pipeline that finds the points in a tennis match recording, tracks the score and cuts highlights, all running locally (built for Apple Silicon, core pipeline also on Linux).
 - **macOS tools:** Mount Kindle, which shows a USB Kindle in Finder as a read-write drive.
 - **Agent guardrails:** a small allow / ask / deny gate that holds AI agent tool calls made through Nango until a person approves them.
 
