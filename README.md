@@ -16,7 +16,6 @@ I'm open to roles in engineering, AI tooling and technical writing.
 | Project | What it does | Latest release |
 | --- | --- | --- |
 | [OpenCourtVision](https://github.com/voantony/opencourtvision-oss) | The open-source engine behind Vamos. Multimodal (audio + vision) tennis and padel match tools: point detection, score tracking, highlights, pose and stroke analysis. Work in progress. | Public release (work in progress) |
-| [RunReady](https://github.com/voantony/runready) | Proves a public GitHub or GitLab repository still installs from its agent docs, and drafts a fix when it doesn't. | [v1.0.0](https://github.com/voantony/runready/releases/tag/v1.0.0) |
 | [Library GUI for KOReader](https://github.com/voantony/koreader-library-gui) | Kindle-style library for KOReader: cover grid, search as you type, filters, Collections, Authors and Series. | [v0.7.8](https://github.com/voantony/koreader-library-gui/releases/tag/v0.7.8) |
 | [Mount Kindle](https://github.com/voantony/kindle-mtp-mount) | Mounts a USB (MTP) Kindle on macOS as a read-write drive in Finder. Menu-bar app and CLI. | [v0.1.1](https://github.com/voantony/kindle-mtp-mount/releases/tag/v0.1.1) |
 | [nango-agent-approval-gate](https://github.com/voantony/nango-agent-approval-gate) | Allow / ask / deny permissions for AI agents calling Nango actions. | |
