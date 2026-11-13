@@ -1,6 +1,8 @@
 # Hi, I'm Antony
 
-I'm an AI-first builder. I've been coding since fifth grade, and I design, build and ship my own products, from tennis video analysis to developer tools for AI agents.
+I'm the founder of Vo Enterprises, which builds **Vamos**, a tennis and padel match-video app. Its open-source engine is [OpenCourtVision](https://gitlab.com/antonyvo/opencourtvision). I'm an AI-first builder, I've been coding since fifth grade, and I design, build and ship my own products, from sports video analysis to developer tools for AI agents.
+
+I'm open to roles in engineering, AI tooling and technical writing.
 
 ## What I build
 
@@ -13,7 +15,7 @@ I'm an AI-first builder. I've been coding since fifth grade, and I design, build
 
 | Project | What it does | Latest release |
 | --- | --- | --- |
-| [OpenCourtVision](https://gitlab.com/antonyvo/opencourtvision) | Multimodal (audio + vision) tennis and padel match tools: point detection, score tracking, highlights, pose and stroke analysis. Work in progress. | Public snapshot on GitLab |
+| [OpenCourtVision](https://gitlab.com/antonyvo/opencourtvision) | The open-source engine behind Vamos. Multimodal (audio + vision) tennis and padel match tools: point detection, score tracking, highlights, pose and stroke analysis. Work in progress. | Public snapshot on GitLab |
 | [RunReady](https://github.com/voantony/runready) | Proves a public GitHub or GitLab repository still installs from its agent docs, and drafts a fix when it doesn't. | [v1.0.0](https://github.com/voantony/runready/releases/tag/v1.0.0) |
 | [Library GUI for KOReader](https://github.com/voantony/koreader-library-gui) | Kindle-style library for KOReader: cover grid, search as you type, filters, Collections, Authors and Series. | [v0.7.8](https://github.com/voantony/koreader-library-gui/releases/tag/v0.7.8) |
 | [Mount Kindle](https://github.com/voantony/kindle-mtp-mount) | Mounts a USB (MTP) Kindle on macOS as a read-write drive in Finder. Menu-bar app and CLI. | [v0.1.1](https://github.com/voantony/kindle-mtp-mount/releases/tag/v0.1.1) |
@@ -24,9 +26,6 @@ I'm an AI-first builder. I've been coding since fifth grade, and I design, build
 
 ## Get in touch
 
+- GitHub: [github.com/voantony](https://github.com/voantony)
 - LinkedIn: [Antony Vo](https://www.linkedin.com/in/antony-vo-678756182/)
-- GitLab: [gitlab.com/antonyvo](https://gitlab.com/antonyvo)
-
----
-
-If my tools save you time, [tips are welcome](https://github.com/voantony/voantony/blob/main/SUPPORT.md).
+- Mirror: [gitlab.com/antonyvo](https://gitlab.com/antonyvo)
