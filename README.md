@@ -6,10 +6,10 @@ I'm open to roles in engineering, AI tooling and technical writing ([samples](ht
 
 ## What I build
 
-- **Sports video analysis:** an audio-and-vision pipeline that finds the points in a tennis match recording, tracks the score and cuts highlights, all running locally on Apple Silicon.
-- **Tools for AI agents:** proving a repo still installs from its agent docs, adding human approval to agent tool calls, and patching an SDK for AI SDK 7.
-- **macOS and e-reader tools:** a Finder drive for USB Kindles and a Kindle-style library screen for KOReader.
-- **Automation and docs:** an n8n workflow that turns client briefs into grounded specs with an LLM, plus technical writing for my own and volunteer projects.
+- **E-reader tools:** Library GUI for KOReader, a Kindle-style library screen with a cover grid, search, and Collections, Authors and Series tabs.
+- **Tennis video analysis:** OpenCourtVision, an audio-and-vision pipeline that finds the points in a tennis match recording, tracks the score and cuts highlights, all running locally on Apple Silicon.
+- **macOS tools:** Mount Kindle, which shows a USB Kindle in Finder as a read-write drive.
+- **Agent guardrails:** a small allow / ask / deny gate that holds AI agent tool calls made through Nango until a person approves them.
 
 ## Projects
 
